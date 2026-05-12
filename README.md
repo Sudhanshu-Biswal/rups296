@@ -3,7 +3,7 @@
 **A benchmark for evaluating LLM reasoning failures on structured domain inputs.**
 
 > 📄 Paper: *"Reasoning Under Pressure: How Structured Domain Context Triggers Failure Modes in Frontier LLMs"*  
-> 🤗 Dataset: [huggingface.co/datasets/[anonymous]/RUPS-296](https://huggingface.co/datasets/[anonymous]/RUPS-296)
+> 🤗 Dataset: Will be added later
 
 ---
 
